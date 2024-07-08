@@ -34,7 +34,7 @@ const Hero = () => {
      </div>
      </Marquee>
    <img src="src/assets/glow.png" className='absolute top-32  animate-pulse1' alt="" />
-   <img src="/blob/main/src/assets/glow.png" className='absolute right-0 bottom-[-10%] animate-pulse1 rotate-180' alt="" />
+   <img src="src/assets/glow.png" className='absolute right-0 bottom-[-10%] animate-pulse1 rotate-180' alt="" />
    
    <div className="hidden  lg:absolute top-16 left-12 xl:left-16 w-[90%] lg:block h-[600px] px-4 overflow-hidden mt-4    md:shadow-xl opacity-[80%]">
       <Meteors number={30}  />
