@@ -28,23 +28,19 @@ export const services = [{
 
 export const work = [{
     id:1,
-<<<<<<< HEAD
-    Image:"/src/assets/Virtual-Reality.png",
-=======
-    Image:"./src/assets/Virtual-Reality.png",
->>>>>>> c2dece5759dfdb0b9d36ade4f36de99a7a768893
+    Image:"public/assets/Virtual-Reality.png",
     url:"https://swapnil1563.github.io/Virtual-Reality/",
 },{
     id:2,
-    Image:"/src/assets/Nike-website.png",
+    Image:"public/assets/Nike-website.png",
     url:"https://swapnil1563.github.io/Nike-deploy/"
 },{
     id:3,
-    Image:"/src/assets/Wolf-wise.png",
+    Image:"/public/assets/Wolf-wise.png",
     url:"https://swapnil1563.github.io/Wolfwise-media/"
 },{
     id:4,
-    Image:"/src/assets/Sidcup.png",
+    Image:"/public/assets/Sidcup.png",
     url:"https://swapnil1563.github.io/Sidcup-Golfclub-Clone/"
 }]
 

@@ -1,6 +1,4 @@
 import React from 'react'
-import service from "src/assets/Service-bg.png"
-import glowservice from "src/assets/glow.png"
 
 const About = () => {
   return (
