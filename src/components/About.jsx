@@ -1,4 +1,6 @@
 import React from 'react'
+import service from "src/assets/Service-bg.png"
+import glowservice from "src/assets/glow.png"
 
 const About = () => {
   return (
@@ -6,7 +8,7 @@ const About = () => {
         <div className="container z-10 lg:w-[80%] w-[95%] glass1 py-4 flex flex-wrap rounded-lg">
            <div className="lg:flex justify-between items-center px-4 lg:px-10 lg:py-5 py-1 ">
            <div className="img  flex justify-center items-center lg:mb-0 mb-6">
-                <img src="src/assets/Service-bg.png" className alt="" />
+                <img src="/src/assets/Service-bg.png" className alt="" />
             </div>
             <div className="content lg:w-[62%] flex justify-center items-center">
 
@@ -17,8 +19,8 @@ const About = () => {
             </div>
            </div>
         </div>
-        <img src="src/assets/glow.png" className='hidden lg:flex lg:absolute left-0  animate-pulse1 z-0 ' alt="" />
-        <img src="src/assets/glow.png" className='hidden lg:flex lg:absolute right-0  animate-pulse1 z-0 rotate-180' alt="" />
+        <img src="/src/assets/glow.png" className='hidden lg:flex lg:absolute left-0  animate-pulse1 z-0 ' alt="" />
+        <img src="/src/assets/glow.png" className='hidden lg:flex lg:absolute right-0  animate-pulse1 z-0 rotate-180' alt="" />
     </div>
   )
 }
