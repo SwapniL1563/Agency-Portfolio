@@ -1,6 +1,6 @@
 import Marquee from "react-fast-marquee";
 import Meteors from "../components/magicui/meteors";
-import glow from "../assets/glow.png"
+import glow from "/blob/main/src/assets/glow.png"
 
 const Hero = () => {
   return (
