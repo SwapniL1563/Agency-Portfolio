@@ -28,7 +28,11 @@ export const services = [{
 
 export const work = [{
     id:1,
+<<<<<<< HEAD
     Image:"/src/assets/Virtual-Reality.png",
+=======
+    Image:"./src/assets/Virtual-Reality.png",
+>>>>>>> c2dece5759dfdb0b9d36ade4f36de99a7a768893
     url:"https://swapnil1563.github.io/Virtual-Reality/",
 },{
     id:2,
