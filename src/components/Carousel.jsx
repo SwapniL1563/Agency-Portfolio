@@ -34,7 +34,7 @@ const Carousel = () => {
             {
                 work.map((items) => (
                     <a  href={items.url} key={items.id} className='  flex items-center  justify-center gap-3  px-1 py-2'>
-                        <img src={items.Image} alt='work' className='border-[1px] rounded-2xl border-[#6F008F] text-white mr-3 ' />
+                        <img src={items.image} alt='work' className='border-[1px] rounded-2xl border-[#6F008F] text-white mr-3 ' />
                     </a>
                 ))
             } </Slider>
@@ -49,7 +49,7 @@ const Carousel = () => {
             {
                 work.map((items) => (
                     <a  href={items.url} key={items.id} className='  flex items-center  justify-center gap-3  px-1 py-2 '>
-                    <img src={items.Image} alt='work' className='border-[1px]  rounded-2xl border-[#6F008F] text-white mr-3 z-10 relative   ' />
+                    <img src={items.image} alt='work' className='border-[1px]  rounded-2xl border-[#6F008F] text-white mr-3 z-10 relative   ' />
                 
                 </a>
                 ))
