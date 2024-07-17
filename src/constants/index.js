@@ -32,7 +32,7 @@ export const work = [{
     url:"https://swapnil1563.github.io/Virtual-Reality/",
 },{
     id:2,
-    Image:"/assets/Nike-website.png",
+    Image:"public/assets/Nike-website.png",
     url:"https://swapnil1563.github.io/Nike-deploy/"
 },{
     id:3,
