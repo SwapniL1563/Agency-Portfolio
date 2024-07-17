@@ -29,7 +29,7 @@ const Hero = () => {
      </div>
      <div className="flex items-center gap-10"> 
      <h1 className="ml-40 text-2xl text-neutral-200"> Transforming Ideas into Digital Reality</h1>
-      <img className="animate-spin1" src="/src/assets/planet.png" alt="" />
+      <img className="animate-spin1" src="public/assets/planet.png" alt="" />
        <h1 className="text-2xl text-neutral-200">Elevate Your Online Presence Today</h1>
      </div>
      </Marquee>
