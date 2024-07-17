@@ -24,7 +24,7 @@ const Hero = () => {
    <Marquee   className="hidden lg:flex absolute z-10 left-0 lg:bottom-14  xl:bottom-10 bg-black py-4 lg:py-6 mr-2 xl:py-8 ">
      <div className="flex items-center justify-center gap-10"> 
      <h1 className=" ml-40 text-2xl text-neutral-200"> Transforming Ideas into Digital Reality</h1>
-      <img className="animate-spin1" src="/src/assets/planet.png" alt="" />
+      <img className="animate-spin1" src="public/assets/planet.png" alt="" />
        <h1 className="text-2xl text-neutral-200">Elevate Your Online Presence Today</h1>
      </div>
      <div className="flex items-center gap-10"> 
