@@ -5,7 +5,7 @@ const About = () => {
         <div className="container z-10 lg:w-[80%] w-[95%] glass1 py-4 flex flex-wrap rounded-lg">
            <div className="lg:flex justify-between items-center px-4 lg:px-10 lg:py-5 py-1 ">
            <div className="img  flex justify-center items-center lg:mb-0 mb-6">
-                <div className="bg-[url('/assets/Service-bg.png ')]" alt=""></div>
+                <div className="bg-[url('/assets/Service-bg.png ')] w-20" alt=""></div>
             </div>
             <div className="content lg:w-[62%] flex justify-center items-center">
 
